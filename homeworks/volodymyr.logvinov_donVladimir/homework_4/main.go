@@ -1,8 +1,9 @@
 package main
 
 import (
-	"./list"
 	"fmt"
+
+	"github.com/MastersAcademy/go-course-2017/homeworks/volodymyr.logvinov_donVladimir/homework_4/list"
 )
 
 func main() {
